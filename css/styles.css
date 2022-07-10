@@ -17,7 +17,7 @@
 
 body {
     background-color: white;
-    background-image: url('/images/gabriel-alenius-USXfF_ONUGo-unsplash.jpg'), linear-gradient(to top, rgba(30, 75, 115, 1), rgba(100, 100, 100, 1));
+    background-image: url('https://negarnamini.github.io/UX_UI_HW_20/images/gabriel-alenius-USXfF_ONUGo-unsplash.jpg'), linear-gradient(to top, rgba(30, 75, 115, 1), rgba(100, 100, 100, 1));
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
